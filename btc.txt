@@ -1,8 +1,5 @@
 Basics  you need to know about bitcoin
-0544683549
 
-
-1NrRnZJMh78M181VCgow5zjY9nVVtrk7Hg
 
 
 1)What is bitcoin
@@ -36,7 +33,6 @@ btc are created by solving complex mathematical problem
 btc miners use computing power to solve these problems
 Once the problem are solve that btc miner is then rewarded with certain amount of btc
 
-02B577ABCN
 
 
 

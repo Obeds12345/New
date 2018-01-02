@@ -1,0 +1,34 @@
+import bs4 as bs 
+
+import urllib
+
+import urllib.request
+
+?
+
+my_url='https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=158648'
+
+my_page=urllib.request.urlopen(my_url)
+
+soup=bs.BeautifulSoup(my_page,'html.parser')
+
+?
+
+#print(soup.prettify())
+
+match=soup.title
+
+match
+
+<title>Class 2 Device Recall  Assurity, Assurity  </title>
+
+import datetime
+
+now=datetime.datetime.now()
+
+print(soup.title.text, now)
+
+?
+
+Class 2 Device Recall  Assurity, Assurity   2017-12-28 16:08:25.377993
+
