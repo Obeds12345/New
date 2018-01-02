@@ -1,4 +1,4 @@
-Basics  you need to know about bitcoin
+ 10 Basics  you need to know about bitcoin
 
 
 
@@ -7,7 +7,7 @@ Basics  you need to know about bitcoin
 At it's simplest BTC is a digital form of currency 
 
 Bitcoin is a new currency that was created in 2009.
-Transactions are made with no middle men – meaning, no banks! There are no transaction fees and no need to give your real name.
+Transactions are made with no middle men â€“ meaning, no banks! There are no transaction fees and no need to give your real name.
 
 2)Who created bitcoin
  by an unknown person using the alias Satoshi Nakamoto
